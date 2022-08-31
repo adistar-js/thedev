@@ -1,6 +1,6 @@
 let a = "console.log(Online)"
-const TunicsPic =  `<img class="bots" src="/asset/tunics.png" alt="Tunics Png">`
-const AcleronPic = `<img class="bots" src="/asset/acleron.jpg" alt="acleron Png">`
+const TunicsPic =  `<img class="bots" src="tunics.png" alt="Tunics Png">`
+const AcleronPic = `<img class="bots" src="acleron.jpg" alt="acleron Png">`
   
 function change(name){
     console.log('Acleron!');
