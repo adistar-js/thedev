@@ -12,7 +12,7 @@
 
 
 body {
-    background-image: url("/asset/discordImage.gif");
+    background-image: url("discordImage.gif");
     background-color: lightblue;
     height: 550px;
     background-position: center;
